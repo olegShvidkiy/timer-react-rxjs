@@ -1,0 +1,7 @@
+.btnsWrapper {
+  width: 30%;
+  margin: 0 auto;
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
